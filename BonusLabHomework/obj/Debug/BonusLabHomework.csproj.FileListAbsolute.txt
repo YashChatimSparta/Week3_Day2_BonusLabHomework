@@ -1,0 +1,6 @@
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\bin\Debug\BonusLabHomework.exe.config
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\bin\Debug\BonusLabHomework.exe
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\bin\Debug\BonusLabHomework.pdb
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\obj\Debug\BonusLabHomework.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\obj\Debug\BonusLabHomework.exe
+C:\Users\Yash Chatim\Engineering45\week3\Day2\BonusLabHomework\BonusLabHomework\obj\Debug\BonusLabHomework.pdb
