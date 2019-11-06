@@ -8,11 +8,12 @@ namespace BonusLabHomework
 {
     public interface ICompareByName
     {
-	int CompareByName();
+	int CompareByName(Object o);
+
     }
 
     public interface ICompareByLength
     {
-	int CompareByLength();
+	int CompareByLength(Object o);
     }
 }

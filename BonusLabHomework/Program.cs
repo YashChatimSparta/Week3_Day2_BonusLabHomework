@@ -82,21 +82,12 @@ namespace IComparable_01
     {
         public string Name { get; set; }
 
-        public int CompareByName()
-        {
-            return 0;
-        }
-
         public int CompareByName(object o)
         {
             Comparison that = o as Comparison;
             return this.Name.CompareTo(that.Name);
         }
 
-        public int CompareByLength()
-        {
-            return 0;
-        }
 
         public int CompareByLength(object o)
         {
